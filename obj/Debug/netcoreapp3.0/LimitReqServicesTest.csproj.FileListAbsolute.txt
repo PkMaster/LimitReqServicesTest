@@ -1,0 +1,12 @@
+D:\AspNetCoreTest\LimitReqServicesTest\bin\Debug\netcoreapp3.0\LimitReqServicesTest.exe
+D:\AspNetCoreTest\LimitReqServicesTest\bin\Debug\netcoreapp3.0\LimitReqServicesTest.deps.json
+D:\AspNetCoreTest\LimitReqServicesTest\bin\Debug\netcoreapp3.0\LimitReqServicesTest.runtimeconfig.json
+D:\AspNetCoreTest\LimitReqServicesTest\bin\Debug\netcoreapp3.0\LimitReqServicesTest.runtimeconfig.dev.json
+D:\AspNetCoreTest\LimitReqServicesTest\bin\Debug\netcoreapp3.0\LimitReqServicesTest.dll
+D:\AspNetCoreTest\LimitReqServicesTest\bin\Debug\netcoreapp3.0\LimitReqServicesTest.pdb
+D:\AspNetCoreTest\LimitReqServicesTest\obj\Debug\netcoreapp3.0\LimitReqServicesTest.csprojAssemblyReference.cache
+D:\AspNetCoreTest\LimitReqServicesTest\obj\Debug\netcoreapp3.0\LimitReqServicesTest.csproj.CoreCompileInputs.cache
+D:\AspNetCoreTest\LimitReqServicesTest\obj\Debug\netcoreapp3.0\LimitReqServicesTest.AssemblyInfoInputs.cache
+D:\AspNetCoreTest\LimitReqServicesTest\obj\Debug\netcoreapp3.0\LimitReqServicesTest.AssemblyInfo.cs
+D:\AspNetCoreTest\LimitReqServicesTest\obj\Debug\netcoreapp3.0\LimitReqServicesTest.dll
+D:\AspNetCoreTest\LimitReqServicesTest\obj\Debug\netcoreapp3.0\LimitReqServicesTest.pdb
